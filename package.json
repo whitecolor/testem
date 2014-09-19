@@ -41,7 +41,8 @@
     "growl": "~1.7.0",
     "consolidate": "~0.8.0",
     "bufferstream": "~0.5.1",
-    "http-proxy": "1.x.x"
+    "http-proxy": "1.x.x",
+    "request": "*"
   },
   "files": [
     "docs",
